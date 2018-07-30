@@ -1,0 +1,15 @@
+*~
+
+out/*
+
+histos/*
+
+src/*~
+
+bin/*
+
+src/obj/*
+
+*.pdf
+
+*.root
