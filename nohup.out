@@ -1,0 +1,117 @@
+[i] [TStarJetPicoReader::SetApplyMIPCorrection] : Disabling MIPCorrection
+[i] [TStarJetPicoReader::SetApplyFractionHadronicCorrection] : Enabling FractionHadronicCorrection
+[i] [TStarJetPicoReader::SetApplyMIPCorrection] : Disabling MIPCorrection
+[i] [TStarJetPicoReader::SetApplyFractionHadronicCorrection] : Enabling FractionHadronicCorrection
+[i] [TStarJetPicoReader::SetFractionHadronicCorrection] : FractionHadronicCorrection 1.000
+Using these track cuts:
+ dca : 100
+ nfit : -1
+ nfitratio : -1
+Using these tower cuts:
+  GetMaxEtCut = 9999
+  Gety8PythiaCut = 0
+[i] [TStarJetPicoReader::Init] : INIT
+[i] [TStarJetPicoReader::Init] : Number of events in the chain 4142460
+[i] [TStarJetPicoReader::Init] : Run set for 4142460 events.
+[i] [TStarJetPicoReader::PrintStatus] : Starting timing measurement.
+#--------------------------------------------------------------------------
+#                         FastJet release 3.1.3
+#                 M. Cacciari, G.P. Salam and G. Soyez                  
+#     A software package for jet finding and analysis at colliders      
+#                           http://fastjet.fr                           
+#	                                                                      
+# Please cite EPJC72(2012)1896 [arXiv:1111.6097] if you use this package
+# for scientific work and optionally PLB641(2006)57 [hep-ph/0512210].   
+#                                                                       
+# FastJet is provided without warranty under the terms of the GNU GPLv2.
+# It uses T. Chan's closest pair algorithm, S. Fortune's Voronoi code
+# and 3rd party plugin jet algorithms. See COPYING file for details.
+#--------------------------------------------------------------------------
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:  90146	 Events left:4052313	 Accepted events:  90147
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:4507.3 Ev/s	Accepted:4507.3 Ev/s	ETA: 15.0 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number: 180622	 Events left:3961837	 Accepted events: 180623
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:4515.5 Ev/s	Accepted:4515.6 Ev/s	ETA: 14.6 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number: 267973	 Events left:3874486	 Accepted events: 267974
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:4466.2 Ev/s	Accepted:4466.2 Ev/s	ETA: 14.5 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number: 358018	 Events left:3784441	 Accepted events: 358019
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:4475.2 Ev/s	Accepted:4475.2 Ev/s	ETA: 14.1 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number: 392725	 Events left:3749734	 Accepted events: 392726
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:210.7 Ev/s	Accepted:210.7 Ev/s	ETA:296.6 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number: 468086	 Events left:3674373	 Accepted events: 468087
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:248.4 Ev/s	Accepted:248.4 Ev/s	ETA:246.5 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number: 545240	 Events left:3597219	 Accepted events: 545241
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:286.3 Ev/s	Accepted:286.3 Ev/s	ETA:209.4 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number: 626006	 Events left:3516453	 Accepted events: 626007
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:325.3 Ev/s	Accepted:325.3 Ev/s	ETA:180.1 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number: 712623	 Events left:3429836	 Accepted events: 712624
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:366.5 Ev/s	Accepted:366.5 Ev/s	ETA:156.0 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number: 800166	 Events left:3342293	 Accepted events: 800167
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:407.4 Ev/s	Accepted:407.4 Ev/s	ETA:136.7 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number: 879855	 Events left:3262604	 Accepted events: 879856
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:443.4 Ev/s	Accepted:443.4 Ev/s	ETA:122.6 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number: 957703	 Events left:3184756	 Accepted events: 957704
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:477.9 Ev/s	Accepted:477.9 Ev/s	ETA:111.1 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:1036410	 Events left:3106049	 Accepted events:1036411
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:512.0 Ev/s	Accepted:512.0 Ev/s	ETA:101.1 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:1095527	 Events left:3046932	 Accepted events:1095528
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:535.4 Ev/s	Accepted:535.4 Ev/s	ETA: 94.9 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:1158496	 Events left:2983963	 Accepted events:1158497
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:560.4 Ev/s	Accepted:560.4 Ev/s	ETA: 88.7 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:1230818	 Events left:2911641	 Accepted events:1230819
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:589.7 Ev/s	Accepted:589.7 Ev/s	ETA: 82.3 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:1293953	 Events left:2848506	 Accepted events:1293954
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:613.5 Ev/s	Accepted:613.5 Ev/s	ETA: 77.4 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:1390081	 Events left:2752378	 Accepted events:1390082
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:652.9 Ev/s	Accepted:652.9 Ev/s	ETA: 70.3 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:1526256	 Events left:2616203	 Accepted events:1526257
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:710.1 Ev/s	Accepted:710.1 Ev/s	ETA: 61.4 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:1666851	 Events left:2475608	 Accepted events:1666852
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:768.4 Ev/s	Accepted:768.4 Ev/s	ETA: 53.7 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:1808305	 Events left:2334154	 Accepted events:1808306
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:826.0 Ev/s	Accepted:826.0 Ev/s	ETA: 47.1 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:1948794	 Events left:2193665	 Accepted events:1948795
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:882.1 Ev/s	Accepted:882.1 Ev/s	ETA: 41.4 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:2047261	 Events left:2095198	 Accepted events:2047262
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:918.4 Ev/s	Accepted:918.4 Ev/s	ETA: 38.0 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:2093968	 Events left:2048491	 Accepted events:2093969
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:930.1 Ev/s	Accepted:930.1 Ev/s	ETA: 36.7 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:2187926	 Events left:1954533	 Accepted events:2187927
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:963.3 Ev/s	Accepted:963.3 Ev/s	ETA: 33.8 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:2303016	 Events left:1839443	 Accepted events:2303017
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:1005.1 Ev/s	Accepted:1005.1 Ev/s	ETA: 30.5 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:2433670	 Events left:1708789	 Accepted events:2433671
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:1052.9 Ev/s	Accepted:1052.9 Ev/s	ETA: 27.0 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:2564163	 Events left:1578296	 Accepted events:2564164
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:1099.8 Ev/s	Accepted:1099.8 Ev/s	ETA: 23.9 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:2694698	 Events left:1447761	 Accepted events:2694699
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:1146.0 Ev/s	Accepted:1146.0 Ev/s	ETA: 21.1 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:2811281	 Events left:1331178	 Accepted events:2811282
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:1185.5 Ev/s	Accepted:1185.5 Ev/s	ETA: 18.7 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:2878505	 Events left:1263954	 Accepted events:2878506
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:1203.7 Ev/s	Accepted:1203.7 Ev/s	ETA: 17.5 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:2942026	 Events left:1200433	 Accepted events:2942027
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:1220.1 Ev/s	Accepted:1220.1 Ev/s	ETA: 16.4 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:3060314	 Events left:1082145	 Accepted events:3060315
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:1258.7 Ev/s	Accepted:1258.7 Ev/s	ETA: 14.3 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:3145429	 Events left: 997030	 Accepted events:3145430
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:1283.1 Ev/s	Accepted:1283.1 Ev/s	ETA: 13.0 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:3252629	 Events left: 889830	 Accepted events:3252630
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:1316.1 Ev/s	Accepted:1316.1 Ev/s	ETA: 11.3 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:3362118	 Events left: 780341	 Accepted events:3362119
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:1349.5 Ev/s	Accepted:1349.5 Ev/s	ETA:  9.6 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:3466056	 Events left: 676403	 Accepted events:3466057
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:1380.1 Ev/s	Accepted:1380.1 Ev/s	ETA:  8.2 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:3570716	 Events left: 571743	 Accepted events:3570717
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:1410.5 Ev/s	Accepted:1410.5 Ev/s	ETA:  6.8 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:3681304	 Events left: 461155	 Accepted events:3681305
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:1442.8 Ev/s	Accepted:1442.8 Ev/s	ETA:  5.3 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:3786864	 Events left: 355595	 Accepted events:3786865
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:1472.7 Ev/s	Accepted:1472.7 Ev/s	ETA:  4.0 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:3889801	 Events left: 252658	 Accepted events:3889802
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:1501.0 Ev/s	Accepted:1501.0 Ev/s	ETA:  2.8 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:3992667	 Events left: 149792	 Accepted events:3992668
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:1528.9 Ev/s	Accepted:1528.9 Ev/s	ETA:  1.6 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:4064287	 Events left:  78172	 Accepted events:4064288
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:1544.5 Ev/s	Accepted:1544.5 Ev/s	ETA:  0.8 min
+[i] [TStarJetPicoReader::PrintStatus] : Current event number:4133734	 Events left:   8725	 Accepted events:4133735
+[i] [TStarJetPicoReader::PrintStatus] :   Average Event Timing: Any:1559.0 Ev/s	Accepted:1559.0 Ev/s	ETA:  0.1 min
