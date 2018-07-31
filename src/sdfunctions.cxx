@@ -15,7 +15,7 @@ namespace sd_analysis {
       fastjet::PseudoJet current = fastjet::PseudoJet( *sv );
       current.set_user_index( sv->GetCharge() );
 
-      if ( std::abs(current.eta()) > 1.0 )      { continue; }  // removes particles with eta>|1|
+      if ( std::abs(current.eta()) > 1.0 )      { continue; }  // removes particles with |eta|>1
       if ( current.pt() < 0.2 )      { continue; }  // removes particles with pt<0.2GeV
 
       rawParticles.push_back(current);
