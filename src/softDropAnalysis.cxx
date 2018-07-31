@@ -159,8 +159,8 @@ int main () {
 	  h_ZgVSpt[b][z]->Fill( rawJets[i].pt(), Zval, weight );
 	    
 	  sdTree[b][z]->Fill();
-
-	  if ( Rval==-1 && Zval==-1) { NsdJets[b][z] += 1; }
+	  
+	  if ( Rval != -1 && Zval != -1) { NsdJets[b][z] += 1; }
 
 	}
       }
@@ -190,3 +190,5 @@ int main () {
   
   return 0;
 }
+  // double z_cut[zVals] = {0.10, 0.50};   // Use a symmetry cut z > z_cut R^beta
+  // double beta[betaVals]  = { -2.0, -1.0, -0.5, 0.0, 0.5, 1.0, 2.0 };
